@@ -1,6 +1,6 @@
 {
-  "name": "qurbani_price_calculator",
-  "version": "1.0.0",
+  "name": "qurbani_cost_estimator",
+  "version": "1.0.1",
   "description": "",
   "main": "app.js",
   "type": "module",

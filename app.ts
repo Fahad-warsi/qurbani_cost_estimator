@@ -186,6 +186,7 @@ while (true) {
       )
     );
   } else if (choice.select === "Exit") {
+    console.clear();
     console.log(
       chalk.bgRgb(0, 0, 139).rgb(255, 255, 255)(
         "\nThank you for using our package! Goodbye!\n"
